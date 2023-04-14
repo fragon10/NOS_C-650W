@@ -53,4 +53,6 @@ For PC, Mac and Android.
 |Switches|Metal plate mounted Outemu red light & linear|
 |EAN|4897076694624|
 
-- [Manual](https://github.com/fragon10/NOS_C-650W/blob/main/NOS_C-650W_en_manual.md)
+---
+
+## [User Manual (en)](https://github.com/fragon10/NOS_C-650W/blob/main/NOS_C-650W_en_manual.md)
